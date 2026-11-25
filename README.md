@@ -1,0 +1,1 @@
+# namhae-vacant-house-report
