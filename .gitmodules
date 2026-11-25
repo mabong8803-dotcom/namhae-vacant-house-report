@@ -1,0 +1,6 @@
+[submodule "tools/CheckIfExist"]
+	path = tools/CheckIfExist
+	url = https://github.com/zabbonat/References-Validation
+[submodule "tools/HalluCiteChecker"]
+	path = tools/HalluCiteChecker
+	url = https://github.com/yusuke1997/HalluCiteChecker

@@ -1,0 +1,2 @@
+# Python 3.11~3.12 권장 (3.13은 rapidocr-onnxruntime 미지원으로 설치 실패)
+hallucitechecker==0.1.2
